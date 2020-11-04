@@ -16,7 +16,7 @@ This repository implements a micro-service architecture that provides two sets o
 
 The two sets of endpoints defined as fallows.
 	
-	## USERS CRUD
+	##USERS CRUD
 	
 	* /Users:get -> List the users
 	* /Users/{id}:put -> update a single user
@@ -24,7 +24,7 @@ The two sets of endpoints defined as fallows.
 	* /Users/{id}:get -> Select a single user
 	* /Usuario:post -> create a new user.
 
-	## USER_TASKS
+	##USER_TASKS
 
 	* /Tasks:get -> List all the task for a single user
 	* /Tasks/{id}:get -> select a single task
